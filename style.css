@@ -1,0 +1,78 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+}
+
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 10px;
+}
+
+h1 {
+	margin: 0;
+}
+
+main {
+	padding: 20px;
+}
+
+#add-student-form {
+	border: 1px solid #ccc;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+h2 {
+	margin-top: 0;
+}
+
+label {
+	display: block;
+	margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="email"] {
+	padding: 5px;
+	margin-bottom: 10px;
+	width: 100%;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+}
+
+input[type="submit"],
+button {
+	background-color: #333;
+	color: #fff;
+	padding: 5px 10px;
+	border: none;
+	border-radius: 3px;
+	cursor: pointer;
+	margin-right: 10px;
+}
+
+button {
+	background-color: #ccc;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th,
+td {
+	border: 1px solid #ccc;
+	padding: 10px;
+	text-align: left;
+}
+
+th {
+	background-color: #f2f2f2;
+}
+
+#search-container {
+	margin-bottom: 20px;
+}
